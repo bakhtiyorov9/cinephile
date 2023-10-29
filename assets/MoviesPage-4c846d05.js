@@ -1,0 +1,1 @@
+import{_ as o}from"./ExtraView-d075f730.js";import{u as a,o as n,c as s,a as t,b as i}from"./index-97a7a2aa.js";const p={__name:"MoviesPage",setup(r){const e=a();return e.getMoviesList("movie","now_playing"),(_,c)=>(n(),s("main",null,[t(o,{info:i(e).now_playing,title:"Все фильмы"},null,8,["info"])]))}};export{p as default};
